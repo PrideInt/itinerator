@@ -1,2 +1,2 @@
-# itinerator
-Itinerary maker web application.
+# Itinerator
+Itinerary maker web application built with Angular.
